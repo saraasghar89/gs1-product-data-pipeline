@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalogue>
+  <tradeItem>
+    <gtin>8961234500044</gtin>
+    <tradeItemUnitDescriptorCode>BASE_UNIT_OR_EACH</tradeItemUnitDescriptorCode>
+    <isTradeItemAConsumerUnit>true</isTradeItemAConsumerUnit>
+    <informationProviderOfTradeItem>
+      <gln>8961234000001</gln>
+    </informationProviderOfTradeItem>
+    <targetMarket>
+      <targetMarketCountryCode>826</targetMarketCountryCode>
+    </targetMarket>
+    <brandName>Sahil</brandName>
+    <functionalName>Chilli Garlic Sauce</functionalName>
+    <countryOfOrigin>586</countryOfOrigin>
+    <netContent measurementUnitCode="MLT">300</netContent>
+    <height measurementUnitCode="MMT">180</height>
+    <width measurementUnitCode="MMT">60</width>
+    <depth measurementUnitCode="MMT">60</depth>
+    <grossWeight measurementUnitCode="GRM">420</grossWeight>
+  </tradeItem>
+  <tradeItem>
+    <gtin>18961234500041</gtin>
+    <tradeItemUnitDescriptorCode>CASE</tradeItemUnitDescriptorCode>
+    <isTradeItemAConsumerUnit>false</isTradeItemAConsumerUnit>
+    <informationProviderOfTradeItem>
+      <gln>8961234000001</gln>
+    </informationProviderOfTradeItem>
+    <targetMarket>
+      <targetMarketCountryCode>826</targetMarketCountryCode>
+    </targetMarket>
+    <brandName>Sahil</brandName>
+    <functionalName>Chilli Garlic Sauce</functionalName>
+    <countryOfOrigin>586</countryOfOrigin>
+    <nextLowerLevelTradeItemInformation>
+      <childTradeItem>
+        <gtin>8961234500044</gtin>
+        <quantityOfNextLowerLevelTradeItem>12</quantityOfNextLowerLevelTradeItem>
+      </childTradeItem>
+    </nextLowerLevelTradeItemInformation>
+    <height measurementUnitCode="MMT">250</height>
+    <width measurementUnitCode="MMT">190</width>
+    <depth measurementUnitCode="MMT">190</depth>
+    <grossWeight measurementUnitCode="GRM">5300</grossWeight>
+  </tradeItem>
+  <tradeItem>
+    <gtin>8961234500068</gtin>
+    <tradeItemUnitDescriptorCode>BASE_UNIT_OR_EACH</tradeItemUnitDescriptorCode>
+    <isTradeItemAConsumerUnit>true</isTradeItemAConsumerUnit>
+    <informationProviderOfTradeItem>
+      <gln>8961234000001</gln>
+    </informationProviderOfTradeItem>
+    <targetMarket>
+      <targetMarketCountryCode>826</targetMarketCountryCode>
+    </targetMarket>
+    <brandName>Sahil</brandName>
+    <functionalName>Coconut Cookies</functionalName>
+    <countryOfOrigin>586</countryOfOrigin>
+    <netContent measurementUnitCode="GRM">120</netContent>
+    <height measurementUnitCode="MMT">200</height>
+    <width measurementUnitCode="MMT">60</width>
+    <depth measurementUnitCode="MMT">40</depth>
+    <grossWeight measurementUnitCode="GRM">130</grossWeight>
+  </tradeItem>
+  <tradeItem>
+    <gtin>18961234500065</gtin>
+    <tradeItemUnitDescriptorCode>CASE</tradeItemUnitDescriptorCode>
+    <isTradeItemAConsumerUnit>false</isTradeItemAConsumerUnit>
+    <informationProviderOfTradeItem>
+      <gln>8961234000001</gln>
+    </informationProviderOfTradeItem>
+    <targetMarket>
+      <targetMarketCountryCode>826</targetMarketCountryCode>
+    </targetMarket>
+    <brandName>Sahil</brandName>
+    <functionalName>Coconut Cookies</functionalName>
+    <countryOfOrigin>586</countryOfOrigin>
+    <nextLowerLevelTradeItemInformation>
+      <childTradeItem>
+        <gtin>8961234500068</gtin>
+        <quantityOfNextLowerLevelTradeItem>24</quantityOfNextLowerLevelTradeItem>
+      </childTradeItem>
+    </nextLowerLevelTradeItemInformation>
+    <height measurementUnitCode="MMT">420</height>
+    <width measurementUnitCode="MMT">260</width>
+    <depth measurementUnitCode="MMT">220</depth>
+    <grossWeight measurementUnitCode="GRM">3400</grossWeight>
+  </tradeItem>
+  <tradeItem>
+    <gtin>8961234500082</gtin>
+    <tradeItemUnitDescriptorCode>BASE_UNIT_OR_EACH</tradeItemUnitDescriptorCode>
+    <isTradeItemAConsumerUnit>true</isTradeItemAConsumerUnit>
+    <informationProviderOfTradeItem>
+      <gln>8961234000001</gln>
+    </informationProviderOfTradeItem>
+    <targetMarket>
+      <targetMarketCountryCode>826</targetMarketCountryCode>
+    </targetMarket>
+    <brandName>Sahil</brandName>
+    <functionalName>Pink Salt</functionalName>
+    <countryOfOrigin>586</countryOfOrigin>
+    <netContent measurementUnitCode="GRM">800</netContent>
+    <height measurementUnitCode="MMT">160</height>
+    <width measurementUnitCode="MMT">80</width>
+    <depth measurementUnitCode="MMT">80</depth>
+    <grossWeight measurementUnitCode="GRM">820</grossWeight>
+  </tradeItem>
+  <tradeItem>
+    <gtin>18961234500089</gtin>
+    <tradeItemUnitDescriptorCode>CASE</tradeItemUnitDescriptorCode>
+    <isTradeItemAConsumerUnit>false</isTradeItemAConsumerUnit>
+    <informationProviderOfTradeItem>
+      <gln>8961234000001</gln>
+    </informationProviderOfTradeItem>
+    <targetMarket>
+      <targetMarketCountryCode>826</targetMarketCountryCode>
+    </targetMarket>
+    <brandName>Sahil</brandName>
+    <functionalName>Pink Salt</functionalName>
+    <countryOfOrigin>586</countryOfOrigin>
+    <nextLowerLevelTradeItemInformation>
+      <childTradeItem>
+        <gtin>8961234500082</gtin>
+        <quantityOfNextLowerLevelTradeItem>12</quantityOfNextLowerLevelTradeItem>
+      </childTradeItem>
+    </nextLowerLevelTradeItemInformation>
+    <height measurementUnitCode="MMT">330</height>
+    <width measurementUnitCode="MMT">250</width>
+    <depth measurementUnitCode="MMT">170</depth>
+    <grossWeight measurementUnitCode="GRM">10100</grossWeight>
+  </tradeItem>
+</catalogue>
